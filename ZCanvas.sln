@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZCanvas", "ZCanvas\ZCanvas.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZCanvas.Lib", "ZCanvas.Lib\ZCanvas.Lib.csproj", "{8E80C9AC-A3DC-4B62-A532-92AFCEB153E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZCanvas.Test", "ZCanvas.Test\ZCanvas.Test.csproj", "{B35303D3-1566-480A-B028-71B675E5A113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZCanvas.CliTest", "ZCanvas.CliTest\ZCanvas.CliTest.csproj", "{A037231A-F76C-415E-9C27-759BD71A27A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8E80C9AC-A3DC-4B62-A532-92AFCEB153E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E80C9AC-A3DC-4B62-A532-92AFCEB153E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E80C9AC-A3DC-4B62-A532-92AFCEB153E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B35303D3-1566-480A-B028-71B675E5A113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35303D3-1566-480A-B028-71B675E5A113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35303D3-1566-480A-B028-71B675E5A113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35303D3-1566-480A-B028-71B675E5A113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A037231A-F76C-415E-9C27-759BD71A27A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A037231A-F76C-415E-9C27-759BD71A27A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A037231A-F76C-415E-9C27-759BD71A27A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A037231A-F76C-415E-9C27-759BD71A27A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
